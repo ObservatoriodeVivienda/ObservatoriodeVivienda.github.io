@@ -1,7 +1,7 @@
 # Site settings
 title: Observatorio de Vivienda
 email: observatoriodevivienda@gmail.com
-description: El derecho a la vivienda adecuada es un derecho fundamental pocas veces atendido y menos veces comprendido. Este hecho no sólo genera problemas de tipo conceptual, sino también de tipo práctico. No puede haber políticas públicas respetuosas de un derecho si este derecho no es, antes, bien estudiado y bien desarrollado. El Observatorio del Derecho a la Vivienda es una iniciativa de sociedad civil con la que se busca dar solución a problemas conceptuales y prácticos relacionados con el derecho a la vivienda. 
+description: Observatorio de Vivienda - El derecho a la vivienda adecuada es un derecho fundamental pocas veces atendido y menos veces comprendido. Este hecho no sólo genera problemas de tipo conceptual, sino también de tipo práctico. No puede haber políticas públicas respetuosas de un derecho si este derecho no es, antes, bien estudiado y bien desarrollado. El Observatorio del Derecho a la Vivienda es una iniciativa de sociedad civil con la que se busca dar solución a problemas conceptuales y prácticos relacionados con el derecho a la vivienda. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://observatoriodevivienda.com" # the base hostname & protocol for your site
 twitter_username: ObserVivienda

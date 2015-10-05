@@ -1,2 +1,2 @@
 # observatoriodevivienda
-Projects of the Housing Rights Observatory
+Housing Rights Observatory web project

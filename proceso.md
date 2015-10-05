@@ -3,6 +3,9 @@ layout: page
 title: Proceso
 permalink: /proceso/
 ---
+
+
+
 <div id= "proceso" class="container" style="padding:15px;">
 <br><br>
     <center><h1> Proceso de Trabajo</h1> </center>
