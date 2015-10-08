@@ -8,7 +8,7 @@ permalink: /proceso/
 
 <div id= "proceso" class="container" style="padding:15px;">
 <br><br>
-    <center><h1> Proceso de Trabajo</h1> </center>
+    <center><h1><font color="#eb3812">Proceso de Trabajo</font></h1> </center>
     <article>
         <h2 class="section-heading" id="i_test">Primera Fase</h2>
         <br>
